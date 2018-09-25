@@ -1,0 +1,117 @@
+﻿{
+  "LOCAL": [
+    {
+      "DisplayName": "local",
+      "TenantId": "dnr-web.local",
+      "HostNames": [ "dnr-web.local" ],
+      "UniqueId": "406D99C8-722D-4388-B869-DC2A9446AB7B",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "local 1",
+      "TenantId": "dnr-web1.local",
+      "HostNames": [ "dnr-web1.local" ],
+      "UniqueId": "4655be87-7cbe-47fd-ae15-2e871e6249c9",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "local 2",
+      "TenantId": "dnr-web2.local",
+      "HostNames": [ "dnr-web2.local", "dnr-web2a.local" ],
+      "UniqueId": "2e5fedf1-7218-4ab4-a301-ab462dabc339",
+      "MspTenantId": "msp-tenant-illinois"
+    }
+  ],
+  "DEV": [
+    {
+      "DisplayName": "Dev App",
+      "TenantId": "DevApp",
+      "HostNames": [ "devapp.egovdnr.com" ],
+      "UniqueId": "ae7693ab-750e-46ac-b20d-810d3731c366",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "Dev App 1",
+      "TenantId": "DevApp1",
+      "HostNames": [ "devapp1.egovdnr.com" ],
+      "UniqueId": "7676effa-f32d-4799-ae40-2d0e2b7edac1",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "Dev App 2",
+      "TenantId": "DevApp2",
+      "HostNames": [ "devapp2.egovdnr.com", "devapp2a.egovdnr.com" ],
+      "UniqueId": "5084e8d5-45d7-439c-b835-6bb84932f4cb",
+      "MspTenantId": "msp-tenant-illinois"
+    }
+  ],
+  "QA": [
+    {
+      "DisplayName": "QA App",
+      "TenantId": "QAApp",
+      "HostNames": [ "qaapp.egovdnr.com" ],
+      "UniqueId": "2ff7e6a5-8a25-4dce-8ad7-34eb5ed81055",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "QA App 1",
+      "TenantId": "QAApp1",
+      "HostNames": [ "qaapp1.egovdnr.com" ],
+      "UniqueId": "d6c2546d-a090-4e34-9a01-8937af82accd",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "QA App 2",
+      "TenantId": "QAApp2",
+      "HostNames": [ "qaapp2.egovdnr.com", "qaapp2a.egovdnr.com" ],
+      "UniqueId": "5dd67fdf-38b2-4b3c-8937-7558fa9240c2",
+      "MspTenantId": "msp-tenant-illinois"
+    }
+  ],
+  "UAT": [
+    {
+      "DisplayName": "UAT App",
+      "TenantId": "UATApp",
+      "HostNames": [ "uatapp.egovdnr.com" ],
+      "UniqueId": "bf3e9643-9979-435d-9db1-a48bebe81157",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "UAT App 1",
+      "TenantId": "UATApp1",
+      "HostNames": [ "uatapp1.egovdnr.com" ],
+      "UniqueId": "002d6ecf-0b92-4b8d-86eb-40af069f2157",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "UAT App 2",
+      "TenantId": "UATApp2",
+      "HostNames": [ "uatapp2.egovdnr.com", "uatapp2a.egovdnr.com" ],
+      "UniqueId": "667c5802-1924-4424-b3bb-21c9f2b1da85",
+      "MspTenantId": "msp-tenant-illinois"
+    }
+  ],
+  "PROD": [
+    {
+      "DisplayName": "Prod App",
+      "TenantId": "ProdApp",
+      "HostNames": [ "www.egovdnr.com" ],
+      "UniqueId": "8623182c-0c1f-42ba-802f-5377a9515744",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "Prod App 1",
+      "TenantId": "ProdApp1",
+      "HostNames": [ "www1.egovdnr.com" ],
+      "UniqueId": "0b099447-f8ff-4327-8ac7-a072b8ccb9db",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "Prod App 2",
+      "TenantId": "ProdApp2",
+      "HostNames": [ "www2.egovdnr.com", "www2a.egovdnr.com" ],
+      "UniqueId": "e02b50d5-2464-471c-9313-b87e0467fdc8",
+      "MspTenantId": "msp-tenant-illinois"
+    }
+  ]
+}
