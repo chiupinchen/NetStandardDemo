@@ -1,0 +1,30 @@
+ [
+    {
+      "DisplayName": "Dev App",
+      "TenantId": "DevApp",
+      "HostNames": [ "devapp.egovdnr.com","devappservice.egovdnr.com" ],
+      "Id": "ae7693ab-750e-46ac-b20d-810d3731c366",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "Dev App 1",
+      "TenantId": "DevApp1",
+      "HostNames": [ "devapp1.egovdnr.com" ],
+      "Id": "7676effa-f32d-4799-ae40-2d0e2b7edac1",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "Dev App 2",
+      "TenantId": "DevApp2",
+      "HostNames": [ "devapp2.egovdnr.com", "devapp2a.egovdnr.com" ],
+      "Id": "5084e8d5-45d7-439c-b835-6bb84932f4cb",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "Dev App 3",
+      "TenantId": "DevApp3",
+      "HostNames": [ "devapp3.egovdnr.com", "devapp3a.egovdnr.com" ],
+      "Id": "57ccb1c4-794b-4a30-a7de-f7ac586aef44",
+      "MspTenantId": "msp-tenant-illinois"
+    }
+  ]

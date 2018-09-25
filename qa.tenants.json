@@ -1,0 +1,23 @@
+[
+    {
+      "DisplayName": "QA App",
+      "TenantId": "QAApp",
+      "HostNames": [ "qaapp.egovdnr.com" ],
+      "UniqueId": "2ff7e6a5-8a25-4dce-8ad7-34eb5ed81055",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "QA App 1",
+      "TenantId": "QAApp1",
+      "HostNames": [ "qaapp1.egovdnr.com" ],
+      "UniqueId": "d6c2546d-a090-4e34-9a01-8937af82accd",
+      "MspTenantId": "msp-tenant-illinois"
+    },
+    {
+      "DisplayName": "QA App 2",
+      "TenantId": "QAApp2",
+      "HostNames": [ "qaapp2.egovdnr.com", "qaapp2a.egovdnr.com" ],
+      "UniqueId": "5dd67fdf-38b2-4b3c-8937-7558fa9240c2",
+      "MspTenantId": "msp-tenant-illinois"
+    }
+  ]
